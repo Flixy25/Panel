@@ -1,6 +1,34 @@
 #EXTM3U
 
 #Carátula general de la Serie 1
+#EXTINF:-1 tvg-id="serie1" tvg-name="Ted (2024)" tvg-logo="https://image.tmdb.org/t/p/w200/iKmLCDudQXXOZr16bB7ApT7jXo3.jpg" group-title="Series", Serie 1 - Temporada 1
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Ted (2024)" tvg-logo="" group-title="Series", Serie 1 - S01E01 - Título del Episodio 1
+https://ggdriveplyer.pages.dev/?video=https://pomf2.lain.la/f/1smljeky.mp4
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Ted (2024)" tvg-logo="" group-title="Series", Serie 1 - S01E02 - Título del Episodio 2
+https://ggdriveplyer.pages.dev/?video=https://pomf2.lain.la/f/0wy9kn2v.mp4
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Ted (2024)" tvg-logo="" group-title="Series", Serie 1 - S01E03 - Título del Episodio 3
+https://ggdriveplyer.pages.dev/?video=https://pomf2.lain.la/f/m0ptdd5q.mp4
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Ted (2024)" tvg-logo="" group-title="Series", Serie 1 - S01E04 - Título del Episodio 4
+https://ggdriveplyer.pages.dev/?video=https://pomf2.lain.la/f/jckimd.mp4
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Ted (2024)" tvg-logo="" group-title="Series", Serie 1 - S01E05 - Título del Episodio 5
+https://ggdriveplyer.pages.dev/?video=https://pomf2.lain.la/f/zf6r3i5.mp4
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Ted (2024)" tvg-logo="" group-title="Series", Serie 1 - S01E06 - Título del Episodio 6
+https://ggdriveplyer.pages.dev/?video=https://pomf2.lain.la/f/fanzx8gn.mp4
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Ted (2024)" tvg-logo="" group-title="Series", Serie 1 - S01E07 - Título del Episodio 7
+https://ggdriveplyer.pages.dev/?video=https://files.catbox.moe/165h33.mp4
+
+
+
+
+
+#Carátula general de la Serie 1
 #EXTINF:-1 tvg-id="serie1" tvg-name="Estamos muertos (2019)" tvg-logo="https://image.tmdb.org/t/p/w200/z8uCc246KwiODy1M4Jc7MeimB96.jpg" group-title="Series", Serie 1 - Temporada 1
 
 #EXTINF:-1 tvg-id="serie1" tvg-name="Estamos muertos (2019)" tvg-logo="" group-title="Series", Serie 1 - S01E01 - Título del Episodio 1
