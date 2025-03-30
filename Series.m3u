@@ -1,6 +1,22 @@
 #EXTM3U
 
 #Carátula general de la Serie 1
+#EXTINF:-1 tvg-id="serie1" tvg-name="Ladrones de drogas (2025)" tvg-logo="https://image.tmdb.org/t/p/w200/6JthW5YU0LZK79FwHFzr0R30MSq.jpg" group-title="Series", Serie 1 - Temporada 1
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Ladrones de drogas (2025)" tvg-logo="" group-title="Series", Serie 1 - S01E01 - Título del Episodio 1
+https://ggdriveplyer.pages.dev/?video=https://files.catbox.moe/lejog1.mp4
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Ladrones de drogas (2025)" tvg-logo="" group-title="Series", Serie 1 - S01E02 - Título del Episodio 2
+https://ggdriveplyer.pages.dev/?video=https://pomf2.lain.la/f/ck14d3qf.mp4
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Ladrones de drogas (2025)" tvg-logo="" group-title="Series", Serie 1 - S01E03 - Título del Episodio 3
+https://ggdriveplyer.pages.dev/?video=https://files.catbox.moe/fz5zsi.mp4
+
+
+
+
+
+#Carátula general de la Serie 1
 #EXTINF:-1 tvg-id="serie1" tvg-name="Ted (2024)" tvg-logo="https://image.tmdb.org/t/p/w200/iKmLCDudQXXOZr16bB7ApT7jXo3.jpg" group-title="Series", Serie 1 - Temporada 1
 
 #EXTINF:-1 tvg-id="serie1" tvg-name="Ted (2024)" tvg-logo="" group-title="Series", Serie 1 - S01E01 - Título del Episodio 1
