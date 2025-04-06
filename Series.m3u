@@ -1,6 +1,37 @@
 #EXTM3U
 
 #Carátula general de la Serie 1
+#EXTINF:-1 tvg-id="serie1" tvg-name="Leonardo (2021)" tvg-logo="https://image.tmdb.org/t/p/w200/rRotCJ6PS9G1aB6fkIbHLCOagWM.jpg" group-title="Series", Serie 1 - Temporada 1
+
+#EXTINF:-1 tvg-id="serie1" tvg-name=" Leonardo (2021)" tvg-logo="" group-title="Series", Serie 1 - S01E01 - Título del Episodio 1
+https://ggdriveplyer.pages.dev/?video=https://dl.dropbox.com/scl/fi/emedbxaprnqhgvl904pb0/Leonardo-1x1.mp4?rlkey=gjv65ylf2nyk1cpijwr3zmdyz
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Leonardo (2021)" tvg-logo="" group-title="Series", Serie 1 - S01E02 - Título del Episodio 2
+https://ggdriveplyer.pages.dev/?video=https://dl.dropbox.com/scl/fi/74l4gxk20k84xj2j7uy34/Leonardo-1x2.mp4?rlkey=2vmvjtoc4xtwqnqvf7hvinh1z
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Leonardo (2021)" tvg-logo="" group-title="Series", Serie 1 - S01E03 - Título del Episodio 3
+https://ggdriveplyer.pages.dev/?video=https://dl.dropbox.com/scl/fi/ssur8jvxwke87lg6aonoe/Leonardo-1x3.mp4?rlkey=3jib6vyzlcjstiruos8o3axfc
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Leonardo (2021)" tvg-logo="" group-title="Series", Serie 1 - S01E04 - Título del Episodio 4
+https://ggdriveplyer.pages.dev/?video=https://dl.dropbox.com/scl/fi/w9xhe25xqd3pn0phsrkao/Leonardo-1x4.mp4?rlkey=ab1omxgvd4jl4y60uz3pbb4dm
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Leonardo (2021)" tvg-logo="" group-title="Series", Serie 1 - S01E05 - Título del Episodio 5
+https://ggdriveplyer.pages.dev/?video=https://dl.dropbox.com/scl/fi/8ope5qrrhm2upxed7s4z6/Leonardo-1x5.mp4?rlkey=khfoineeimcifwho8s7h5st03
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Leonardo (2021)" tvg-logo="" group-title="Series", Serie 1 - S01E06 - Título del Episodio 6
+https://ggdriveplyer.pages.dev/?video=https://dl.dropbox.com/scl/fi/l111g551emf2gtw02v7tx/Leonardo-1x6.mp4?rlkey=zzmxg6k5z0r2nyjhswpqhxchf
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Leonardo (2021)" tvg-logo="" group-title="Series", Serie 1 - S01E07 - Título del Episodio 7
+https://ggdriveplyer.pages.dev/?video=https://dl.dropbox.com/scl/fi/w9fb9x26kzmo60q2d4hy2/Leonardo-1x7.mp4?rlkey=00n4x57w7h2hlyq21e7a4w1g6
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Leonardo (2021)" tvg-logo="" group-title="Series", Serie 1 - S01E08 - Título del Episodio 8
+https://ggdriveplyer.pages.dev/?video=https://dl.dropbox.com/scl/fi/ifw15ta6u9o8d30k1xl28/Leonardo-1x8.mp4?rlkey=ifmj9jfcj297xgg6ovlvn5h9d
+
+
+
+
+
+#Carátula general de la Serie 1
 #EXTINF:-1 tvg-id="serie1" tvg-name="Adolescence (2025)" tvg-logo="https://image.tmdb.org/t/p/w200/tDHWWReefmOOjBCJZUck8cNwssk.jpg" group-title="Series", Serie 1 - Temporada 1
 
 #EXTINF:-1 tvg-id="serie1" tvg-name="Adolescence (2025)" tvg-logo="" group-title="Series", Serie 1 - S01E01 - Título del Episodio 1
