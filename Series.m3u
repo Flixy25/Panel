@@ -1,5 +1,32 @@
 #EXTM3U
 #Carátula general de la Serie 1
+#EXTINF:-1 tvg-id="serie1" tvg-name="Government Cheese (2025)" tvg-logo="https://image.tmdb.org/t/p/w200/kQdwXTgBfExh88Z2wwIg3xpnKXo.jpg" group-title="Series", Serie 1 - Temporada 1
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Government Cheese (2025)" tvg-logo="" group-title="Series", Serie 1 - S01E01 - Título del Episodio 1
+https://linko.uno/?v=rnhnmvk5e12d
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Government Cheese (2025)" tvg-logo="" group-title="Series", Serie 1 - S01E02 - Título del Episodio 2
+https://linko.uno/?v=8fumaaqexgwv
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Government Cheese (2025)" tvg-logo="" group-title="Series", Serie 1 - S01E03 - Título del Episodio 3
+https://linko.uno/?v=vinqcflmomwd
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Government Cheese (2025)" tvg-logo="" group-title="Series", Serie 1 - S01E04 - Título del Episodio 4
+https://linko.uno/?v=efyw3z0kpdp9
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Government Cheese (2025)" tvg-logo="" group-title="Series", Serie 1 - S01E05 - Título del Episodio 5
+https://linko.uno/?v=evcqj5acvpns
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="Government Cheese (2025)" tvg-logo="" group-title="Series", Serie 1 - S01E06 - Título del Episodio 6
+https://linko.uno/?v=iq88ltdn3md7
+
+
+
+
+
+
+
+#Carátula general de la Serie 1
 #EXTINF:-1 tvg-id="serie1" tvg-name="Ransom Canyon (2025)" tvg-logo="https://image.tmdb.org/t/p/w200/vp6A0mthGwZmnowmLxqNPF0lVRN.jpg" group-title="Series", Serie 1 - Temporada 1
 
 #EXTINF:-1 tvg-id="serie1" tvg-name="Ransom Canyon (2025)" tvg-logo="" group-title="Series", Serie 1 - S01E01 - Título del Episodio 1
@@ -31,6 +58,9 @@ https://linko.uno/?v=v8jf4ivgo456
 
 #EXTINF:-1 tvg-id="serie1" tvg-name="Ransom Canyon (2025)" tvg-logo="" group-title="Series", Serie 1 - S01E010 - Título del Episodio 10
 https://linko.uno/?v=ddll22qs73bt
+
+
+
 
 
 
